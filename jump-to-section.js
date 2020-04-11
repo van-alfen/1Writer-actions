@@ -1,7 +1,4 @@
 
-// from user @Pgruneich
-// see: http://1writerapp.com/actiondir/action/072ca
-
 var content,
     lines,
     headings,
