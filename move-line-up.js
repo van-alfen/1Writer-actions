@@ -1,6 +1,4 @@
 
-// source: ???
-
 range = editor.getSelectedLineRange();
 line = editor.getTextInRange(range[0], range[1]);
 
