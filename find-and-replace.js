@@ -1,7 +1,4 @@
 
-// Shared by 1writerapp
-// see: http://1writerapp.com/actiondir/action/13132
-
 var sel = editor.getSelectedText();
 ui.input('Find', sel, 'Find what', function(find) {
     if (find) {
